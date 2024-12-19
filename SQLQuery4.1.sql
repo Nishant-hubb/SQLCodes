@@ -1,0 +1,8 @@
+SELECT * FROM [dbo].[Categories]
+SELECT * FROM [dbo].[CustomerCustomerDemo]
+SELECT * FROM [dbo].[CustomerDemographics]
+SELECT * FROM [dbo].[Customers]
+SELECT * FROM [dbo].[Employees]
+SELECT * FROM [dbo].[Order Details]
+SELECT * FROM [dbo].[Orders]
+SELECT * FROM [dbo].[Products]
